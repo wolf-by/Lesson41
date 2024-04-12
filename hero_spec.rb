@@ -19,7 +19,7 @@ describe Hero do
   end  
 
   it "displays full hero info" do 
-    expect(@hero.hero_info).to eq "Mike has a health of 100"
+    expect(@  hero.hero_info).to eq "Mike has a health of 100"
   end
     
 end
